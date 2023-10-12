@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>townsville_v2</name>
+	<gx:CascadingStyle kml:id="__managed_style_161B76B5092C5954E4A4">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0092C77C4F2C5954E4A4">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_09092D0E2E2C5954E4A3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0092C77C4F2C5954E4A4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_161B76B5092C5954E4A4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="07B19719F02C5954E49F">
+		<name>Townsville_plot</name>
+		<LookAt>
+			<longitude>146.8139024028934</longitude>
+			<latitude>-19.32025067946697</latitude>
+			<altitude>5.412149586174611</altitude>
+			<heading>4.129950253880377e-12</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>28264.39487893135</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_09092D0E2E2C5954E4A3</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						146.8414434142778,-19.31390190415059,0 146.8483135715002,-19.31281058064404,0 146.8545825001052,-19.31499823790503,0 146.856705776054,-19.32108593132014,0 146.8649835645674,-19.31983187983195,0 146.8752278581443,-19.32606402101651,0 146.8791769555811,-19.32289616760163,0 146.8753836877997,-19.31842184382845,0 146.8629247947569,-19.30709006116641,0 146.8636304287316,-19.29881862940564,0 146.8701271782018,-19.29679967491651,0 146.8623903149532,-19.29014114285846,0 146.8537392565876,-19.2741039081678,0 146.8384326587484,-19.26891916315559,0 146.8313602060717,-19.27825329844914,0 146.8265809894141,-19.28324520841922,0 146.8282724326623,-19.28826355280909,0 146.8232610554421,-19.29171865365421,0 146.8243915240646,-19.29953850930437,0 146.8264248738744,-19.30442648932974,0 146.8328039599717,-19.31080040912072,0 146.8309675012613,-19.31340539513452,0 146.8355305505087,-19.31773469568409,0 146.8414434142778,-19.31390190415059,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
